@@ -9,7 +9,7 @@ From: ubuntu:24.04
     apt install -y zenity alacritty libxkbcommon-x11-dev bat
 
     # tools we want to teach (please extend)
-    apt install -y curl wget git
+    apt install -y curl wget git make gnupg gcc unzip
 
 
 %environment
